@@ -54,4 +54,5 @@ td:nth-child(1) {
 footer {
     position: absolute;
     bottom: 0;
+    font-size: 7px;
 }
